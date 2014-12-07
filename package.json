@@ -1,6 +1,6 @@
 {
   "name": "socket.io-sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module for syncing desktop and mobile sockets in order to create second screen experiences",
   "main": "index.js",
   "scripts": {
